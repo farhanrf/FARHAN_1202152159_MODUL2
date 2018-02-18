@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FARHAN_1202152159_MODUL2</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="imagesplash">imagesplash</string>
+    <string name="imageacivity">imageAcivity</string>
+    <string name="pilih_menu">Choose Menu :</string>
+    <string name="dine_in">Dine In</string>
+    <string name="take_away">Take Away</string>
+    <string name="pesan_sekarang">Order Now</string>
+    <string name="detail_costumer">Detail Costumer</string>
+    <string name="name">Name</string>
+    <string name="nomor_meja">Table Number :</string>
+    <string name="pilih_pesanan">Choose Order</string>
+    <string name="todo">TODO</string>
+</resources>
